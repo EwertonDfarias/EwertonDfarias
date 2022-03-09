@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/EwertonDfarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonDfarias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonDfarias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>_
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonDfarias&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
